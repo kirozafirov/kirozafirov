@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kirozafirov professional musician
 - 👀 I’m interested in QA
-- 🌱 I’m currently learning QA Automation
+- 🌱 Junior QA Automation Engineer
 
 <!---
 kirozafirov/kirozafirov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
